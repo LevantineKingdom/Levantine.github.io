@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Levantine Kingdom</title>
+    <link rel="icon" type="image/png" href="levant.png">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: #555555;
+        }
+
+        p {
+            color: #777777;
+        }
+
+        .constitution-link {
+            margin-top: 20px;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0088cc;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .constitution-link:hover {
+            background-color: #006699;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Levantine Kingdom</h1>
+    <p>Discover our nation and its principles</p>
+    <a class="constitution-link" href="constitution.html">Read the Constitution</a>
+</body>
+</html>
